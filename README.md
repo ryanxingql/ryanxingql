@@ -24,7 +24,7 @@ Official repositories:
 
 My implementations:
 
-- 🔭 [STDF](https://github.com/RyanXingQL/STDF-PyTorch): Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020; My PyTorch implementation)
+- 🔭 [STDF](https://github.com/RyanXingQL/STDF-PyTorch): Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
