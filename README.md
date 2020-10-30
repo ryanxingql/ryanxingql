@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 I'm a PhD student at Beihang University, working on **image restoration/enhancement**, **video coding** and other computer vision tasks.
 
-My GitHub repositories are as follows:
+Official repositories:
 
-- 🔭 [STDF](https://github.com/RyanXingQL/STDF-PyTorch): Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020; My PyTorch implementation)
 - ✨ [RBQE](https://github.com/RyanXingQL/RBQE): Enhancing compressed images blindly and efficiently using an early-exit network plus an IQA module (ECCV 2020)
 - ✨ [MFQEv2](https://github.com/RyanXingQL/MFQEv2.0): Enhancing frames in compressed videos taking advantage of neighboring good-quality frames (TPAMI 2019)
+
+My implementations:
+
+- 🔭 [STDF](https://github.com/RyanXingQL/STDF-PyTorch): Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020; My PyTorch implementation)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
