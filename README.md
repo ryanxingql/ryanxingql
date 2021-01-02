@@ -27,6 +27,6 @@ My implementations:
 - 🔭 [STDF](https://github.com/RyanXingQL/STDF-PyTorch): Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020)
 - 🔭 [ESRGAN](https://github.com/RyanXingQL/SubjectiveQE-ESRGAN): Enhancing subjective quality of compressed images using ESRGAN (ECCVW 2018)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&theme=algolia&show_icons=true&include_all_commits=true&hide_title=true" />
 
 😄 See also my [page](https://ryanxingql.github.io/) and my [blog](https://github.com/RyanXingQL/Blog)~
