@@ -19,14 +19,14 @@ I'm a PhD student at Beihang University, working on **image restoration/enhancem
 
 Official repositories:
 
-- ✨ [RBQE](https://github.com/RyanXingQL/RBQE): Enhancing compressed images blindly and efficiently using an early-exit network plus an IQA module (ECCV 2020)
-- ✨ [MFQEv2](https://github.com/RyanXingQL/MFQEv2.0): Enhancing frames in compressed videos taking advantage of neighboring good-quality frames (TPAMI 2019)
+- :star2: [RBQE](https://github.com/RyanXingQL/RBQE): Enhancing compressed images blindly and efficiently using an early-exit network plus an IQA module (ECCV 2020)
+- :star2: [MFQEv2](https://github.com/RyanXingQL/MFQEv2.0): Enhancing frames in compressed videos taking advantage of neighboring good-quality frames (TPAMI 2019)
 
 My implementations:
 
-- 🔭 [STDF](https://github.com/RyanXingQL/STDF-PyTorch): Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020)
-- 🔭 [ESRGAN](https://github.com/RyanXingQL/SubjectiveQE-ESRGAN): Enhancing subjective quality of compressed images using ESRGAN (ECCVW 2018)
+- :fire: [STDF](https://github.com/RyanXingQL/STDF-PyTorch): Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020)
+- :fire: [ESRGAN](https://github.com/RyanXingQL/SubjectiveQE-ESRGAN): Enhancing subjective quality of compressed images using ESRGAN (ECCVW 2018)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&theme=algolia&show_icons=true&include_all_commits=true&hide_title=true" />
 
-😄 See also my [page](https://ryanxingql.github.io/) and my [blog](https://github.com/RyanXingQL/Blog)~
+:satisfied: See also my [page](https://ryanxingql.github.io/) and my [blog](https://github.com/RyanXingQL/Blog)~
