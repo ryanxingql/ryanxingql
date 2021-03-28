@@ -29,4 +29,4 @@ My implementations:
 
 :satisfied: See also my [page](https://ryanxingql.github.io/) and my [blog](https://github.com/RyanXingQL/Blog)~
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&hide=prs,issues&show_icons=true&theme=vue&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&hide=prs,issues&show_icons=true&theme=graywhite&hide_title=true" />
