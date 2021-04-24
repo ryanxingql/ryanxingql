@@ -26,8 +26,8 @@ My implementations:
 
 - :satisfied: [STDF](https://github.com/RyanXingQL/STDF-PyTorch): Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020).
 - :yum: [ESRGAN](https://github.com/RyanXingQL/SubjectiveQE-ESRGAN): Enhancing the perceptual quality of compressed images using ESRGAN (ECCVW 2018).
-- :relaxed: [Image quality assessment toolbox](https://github.com/RyanXingQL/Image-Quality-Assessment-Toolbox)
-- :heart_eyes: [Python toolbox](https://github.com/RyanXingQL/PythonUtils) 
+- :relaxed: [Image quality assessment toolbox](https://github.com/RyanXingQL/Image-Quality-Assessment-Toolbox): PSNR, SSIM, PI, NIQE, MA, LPIPS, FID, etc.
+- :heart_eyes: [Python toolbox](https://github.com/RyanXingQL/PythonUtils): IO, data format conversion, metrics, loss functions, deep learning, etc.
 
 :smiley: See also my [page](https://ryanxingql.github.io/) and my [blog](https://github.com/RyanXingQL/Blog)~
 
