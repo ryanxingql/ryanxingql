@@ -21,4 +21,4 @@ I'm a PhD student at Beihang University, working on **image/video enhancement**,
 
 :smiley: See also my [page](https://ryanxingql.github.io/) and my [blog](https://github.com/RyanXingQL/Blog)~
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&hide=prs,issues&show_icons=true&theme=graywhite&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanXingQL&count_private=true&hide=prs,issues&show_icons=true&theme=graywhite&hide_title=true" />
