@@ -15,8 +15,8 @@ I'm a PhD student at Beihang University, working on **image/video enhancement**,
 
 **Toolboxs**
 
-- [[Image quality assessment]](https://github.com/RyanXingQL/Image-Quality-Assessment-Toolbox) Collecting the most commonly-used image quality evaluators such as PSNR, SSIM, MS-SSIM, LPIPS, BRISQUE, NIQE, PIQE, etc ![star](https://img.shields.io/github/stars/RyanXingQL/Image-Quality-Assessment-Toolbox?style=social)
-- [[Python utilities]](https://github.com/RyanXingQL/PythonUtils) Implementing some useful functions for IO, data format conversion, deep learning, etc ![star](https://img.shields.io/github/stars/RyanXingQL/PythonUtils?style=social)
+- [[Image Quality Assessment]](https://github.com/RyanXingQL/Image-Quality-Assessment-Toolbox) Collecting the most commonly-used image quality evaluators such as PSNR, SSIM, MS-SSIM, LPIPS, BRISQUE, NIQE, PIQE, etc ![star](https://img.shields.io/github/stars/RyanXingQL/Image-Quality-Assessment-Toolbox?style=social)
+- [[Python Utilities]](https://github.com/RyanXingQL/PythonUtils) Implementing some useful functions for IO, data format conversion, deep learning, etc ![star](https://img.shields.io/github/stars/RyanXingQL/PythonUtils?style=social)
 
 :smiley: See also my [blog](https://github.com/RyanXingQL/Blog) and my [page](https://ryanxingql.github.io/)!
 
