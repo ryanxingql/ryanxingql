@@ -4,6 +4,7 @@ I'm a PhD student at Beihang University, working on **image/video enhancement**,
 
 **Projects**
 
+- [[NTIRE22]](https://github.com/ryanxingql/winner-ntire22-vqe) Winner of the NTIRE 2022 Challenge on super-resolution and quality enhancement of compressed video ![star](https://img.shields.io/github/stars/ryanxingql/winner-ntire22-vqe?style=social)
 - [[PowerQE]](https://github.com/ryanxingql/powerqe) An unified framework of quality enhancement approaches for compressed images/videos based on PyTorch ![star](https://img.shields.io/github/stars/ryanxingql/powerqe?style=social)
 - [[STDF]](https://github.com/ryanxingql/stdf-pytorch) Enhancing compressed videos with feature-wise deformable convolutions, instead of frame-wise motion estimation and compensation (AAAI 2020, unofficial implementation) ![star](https://img.shields.io/github/stars/ryanxingql/stdf-pytorch?style=social)
 - [[RBQE]](https://github.com/ryanxingql/rbqe) Enhancing compressed images blindly and efficiently using an early-exit network plus an IQA module (ECCV 2020) ![star](https://img.shields.io/github/stars/ryanxingql/rbqe?style=social)
