@@ -22,3 +22,5 @@ I'm a PhD student at Beihang University, working on **image/video enhancement**,
 - [[Document Guideline]](https://github.com/ruanyf/document-style-guide) Guideline of writing Chinese documents by Ruan Yifeng. ![star](https://img.shields.io/github/stars/ruanyf/document-style-guide?style=social)
 
 :smiley: See also my [blog](https://github.com/ryanxingql/blog) and my [page](https://ryanxingql.github.io/)!
+
+![My GitHub stats](https://github-readme-stats-ryanxingql.vercel.app/api?username=ryanxingql&count_private=true&theme=graywhite)
