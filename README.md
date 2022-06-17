@@ -1,6 +1,6 @@
 ### Hi there, I'm Qunliang Xing! :satisfied:
 
-I'm a PhD student at Beihang University, working on **image/video enhancement**, **video coding** and other computer vision tasks.
+I'm a PhD student working on **image/video enhancement**, **video coding** and other computer vision tasks.
 
 **Maintaining Projects**
 
