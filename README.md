@@ -18,4 +18,4 @@ I'm a PhD student working on **image/video enhancement**, **video coding** and o
 
 :smiley: See also my [blog](https://github.com/ryanxingql/blog) and my [page](https://ryanxingql.github.io/)!
 
-![My GitHub stats](https://github-readme-stats-ryanxingql.vercel.app/api?username=ryanxingql&theme=graywhite)
+![My GitHub stats](https://github-readme-stats-ryanxingql.vercel.app/api?username=ryanxingql&count_private=true&theme=graywhite)
