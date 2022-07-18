@@ -16,6 +16,4 @@ I'm a PhD student working on **image/video enhancement**, **video coding** and o
 
 - [MMEditing](https://github.com/open-mmlab/mmediting) ![star](https://img.shields.io/github/stars/open-mmlab/mmediting?style=social) A low-level vision toolbox based on PyTorch by OpenMMLab.
 
-:smiley: See also my [blog](https://github.com/ryanxingql/blog) and my [page](https://ryanxingql.github.io/)!
-
-![My GitHub stats](https://github-readme-stats-ryanxingql.vercel.app/api?username=ryanxingql&count_private=true&theme=graywhite)
+See also my [page](https://ryanxingql.github.io/) and [blog](https://github.com/ryanxingql/blog) ![star](https://img.shields.io/github/stars/ryanxingql/blog?style=social) :smiley:
