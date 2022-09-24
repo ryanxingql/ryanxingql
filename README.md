@@ -1,8 +1,8 @@
 ### Hi there, I'm Qunliang Xing! :satisfied:
 
-I'm a PhD student working on **image/video enhancement**, **video coding** and other computer vision tasks.
+I'm a PhD student working on **image/video enhancement and coding**.
 
-**Maintaining Projects**
+**Maintaining**
 
 - [PowerVQE](https://github.com/ryanxingql/powervqe) ![star](https://img.shields.io/github/stars/ryanxingql/powervqe?style=social) Unified framework for enhancing the quality of compressed videos based on PyTorch and MMEditing.
 - [NTIRE22-VQE](https://github.com/ryanxingql/winner-ntire22-vqe) ![star](https://img.shields.io/github/stars/ryanxingql/winner-ntire22-vqe?style=social) Winner method of the *NTIRE 2022 Challenge on super-resolution and quality enhancement of compressed video*.
@@ -12,8 +12,6 @@ I'm a PhD student working on **image/video enhancement**, **video coding** and o
 - [RBQE](https://github.com/ryanxingql/rbqe) ![star](https://img.shields.io/github/stars/ryanxingql/rbqe?style=social) Enhancing the quality of compressed images blindly and efficiently using an early-exit network with an IQA module. (ECCV 2020)
 - [MFQEv2](https://github.com/ryanxingql/mfqev2.0) ![star](https://img.shields.io/github/stars/ryanxingql/mfqev2.0?style=social) Enhancing the quality of compressed videos taking advantage of the neighboring good-quality frames. (TPAMI 2019)
 
-**Contributing Projects**
+**Contributing**
 
 - [MMEditing](https://github.com/open-mmlab/mmediting) ![star](https://img.shields.io/github/stars/open-mmlab/mmediting?style=social) A low-level vision toolbox based on PyTorch by OpenMMLab.
-
-See also my [page](https://ryanxingql.github.io/) and [blog](https://github.com/ryanxingql/blog) ![star](https://img.shields.io/github/stars/ryanxingql/blog?style=social) :smiley:
