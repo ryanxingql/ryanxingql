@@ -5,7 +5,7 @@ I'm a PhD student working on **image/video enhancement and coding**.
 **Maintaining**
 
 - [PowerVQE](https://github.com/ryanxingql/powervqe) ![star](https://img.shields.io/github/stars/ryanxingql/powervqe?style=social) Unified framework for enhancing the quality of compressed videos based on PyTorch and MMEditing.
-- [NTIRE22-VQE](https://github.com/ryanxingql/winner-ntire22-vqe) ![star](https://img.shields.io/github/stars/ryanxingql/winner-ntire22-vqe?style=social) Winner method of the *NTIRE 2022 Challenge on super-resolution and quality enhancement of compressed video*.
+- [NTIRE22-VQE](https://github.com/ryanxingql/winner-ntire22-vqe) ![star](https://img.shields.io/github/stars/ryanxingql/winner-ntire22-vqe?style=social) Winner method of the *NTIRE 2022 challenge on super-resolution and quality enhancement of compressed video*.
 - [STDF](https://github.com/ryanxingql/stdf-pytorch) ![star](https://img.shields.io/github/stars/ryanxingql/stdf-pytorch?style=social) Enhancing the quality of compressed videos with feature alignment by deformable convolutions. (AAAI 2020, unofficial)
 - [Image Quality Assessment](https://github.com/ryanxingql/image-quality-assessment-toolbox) ![star](https://img.shields.io/github/stars/ryanxingql/image-quality-assessment-toolbox?style=social) Collection of the most commonly-used image quality evaluators such as PSNR, SSIM, MS-SSIM, LPIPS, BRISQUE, NIQE, PIQE, etc.
 - [PowerQE](https://github.com/ryanxingql/powerqe) ![star](https://img.shields.io/github/stars/ryanxingql/powerqe?style=social) Unified framework for enhancing the quality of compressed images based on PyTorch.
