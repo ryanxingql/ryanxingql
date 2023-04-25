@@ -13,6 +13,6 @@
 
 - :telescope: I'm currently working on image/video enhancement and coding.
 - :thinking: My research interests also include other low-level vision tasks, such as image/video quality assessment.
-- :seedling: I enjoy developing and contributing to open-source projects, such as MMEditing.
+- :seedling: I enjoy developing and contributing to open-source projects, such as MMagic (MMEditing).
 - :soccer: I love playing soccer, and I run fast!
 - :mailbox: Feel free to send me an email if you have any questions.
