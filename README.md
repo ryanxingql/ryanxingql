@@ -1,3 +1,3 @@
-I am maintaining the [PowerQE](https://github.com/ryanxingql/powerqe) framework and also contributing to [MMagic](https://github.com/open-mmlab/mmagic).
-
+- [PowerQE framework](https://github.com/ryanxingql/powerqe)
 - [中文博客](https://github.com/ryanxingql/blog)
+- [MMagic](https://github.com/open-mmlab/mmagic)
