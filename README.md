@@ -1,3 +1,3 @@
-- [PowerQE framework](https://github.com/ryanxingql/powerqe)
+- [PowerQE](https://github.com/ryanxingql/powerqe)
 - [中文博客](https://github.com/ryanxingql/blog)
 - [MMagic](https://github.com/open-mmlab/mmagic)
