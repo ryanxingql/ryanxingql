@@ -1,2 +1,2 @@
 - [中文博客](https://github.com/ryanxingql/blog)
-- [How to do research via pengsida](https://github.com/pengsida/learning_research/blob/master/getting_advanced_in_research.md)
+- [An opinionated guide to ML research via John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
