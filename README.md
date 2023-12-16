@@ -1,3 +1,2 @@
-- [PowerQE](https://github.com/ryanxingql/powerqe)
 - [中文博客](https://github.com/ryanxingql/blog)
-- [MMagic](https://github.com/open-mmlab/mmagic)
+- [How to do research via pengsida](https://github.com/pengsida/learning_research/blob/master/getting_advanced_in_research.md)
