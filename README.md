@@ -1,2 +1,1 @@
-- [中文博客](https://github.com/ryanxingql/blog)
-- [An opinionated guide to ML research via John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
+
